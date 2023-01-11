@@ -1,7 +1,6 @@
-# Webpack Starter
+# Aplicación  ToDo
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
-
+Este es una aplicacion para administrar tareas segun se vaya completando
 ## Notas: 
 Recuerden reconstruir los módulos de Node
 
@@ -9,8 +8,8 @@ Recuerden reconstruir los módulos de Node
 npm install
 ```
 
-Y para reconstruir el buid recuerden:
+Y para reconstruir el build para desarrollo recuerden:
 
 ```
-npm run build
+npm run build:dev
 ```
